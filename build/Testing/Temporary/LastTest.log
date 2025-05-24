@@ -1,0 +1,19 @@
+Start testing: May 24 13:05 CST
+----------------------------------------------------------
+1/1 Testing: parser_test
+1/1 Test: parser_test
+Command: "/root/C_Project/cpp-json-parser/build/parser_test"
+Directory: /root/C_Project/cpp-json-parser/build
+"parser_test" start time: May 24 13:05 CST
+Output:
+----------------------------------------------------------
+街道: 朝阳区
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"parser_test" end time: May 24 13:05 CST
+"parser_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 24 13:05 CST

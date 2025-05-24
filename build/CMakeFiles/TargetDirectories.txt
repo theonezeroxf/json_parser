@@ -1,0 +1,5 @@
+/root/C_Project/cpp-json-parser/build/CMakeFiles/json_lib.dir
+/root/C_Project/cpp-json-parser/build/CMakeFiles/parser_test.dir
+/root/C_Project/cpp-json-parser/build/CMakeFiles/test.dir
+/root/C_Project/cpp-json-parser/build/CMakeFiles/edit_cache.dir
+/root/C_Project/cpp-json-parser/build/CMakeFiles/rebuild_cache.dir

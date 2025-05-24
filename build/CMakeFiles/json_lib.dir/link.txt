@@ -1,0 +1,2 @@
+/usr/bin/ar qc libjson_lib.a CMakeFiles/json_lib.dir/src/parser.cpp.o CMakeFiles/json_lib.dir/src/value.cpp.o
+/usr/bin/ranlib libjson_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/parser_test.dir/tests/parser_test.cpp.o -o parser_test  libjson_lib.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
